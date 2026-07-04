@@ -56,9 +56,12 @@ November, December, and September drive significantly higher revenue (holiday sh
 ├── powerbi/
 │   └── ecommerce_dashboard.pbix    # Full interactive Power BI file
 ├── reports/
-│   └── dashboard_export.pdf        # Static PDF export of all 4 pages
+│   └── Dashboard.pdf               # Static PDF export of all 4 pages
 ├── images/
-│   └── (dashboard page screenshots)
+│   ├── page1_overview.png
+│   ├── page2_customer_analysis.png
+│   ├── page3_product_analysis.png
+│   └── page4_discount_impact.png
 └── README.md
 ```
 
